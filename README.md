@@ -1,2 +1,2 @@
 ## Demo
-https://app.netlify.com/sites/azeeztm-draft-board-game
+https://azeeztm-draft-board-game.netlify.app/
